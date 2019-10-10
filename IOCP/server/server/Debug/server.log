@@ -1,0 +1,5 @@
+﻿  server.c
+f:\temp\vs\2017\iocp\server\server\server.c(44): warning C4018: “<”: 有符号/无符号不匹配
+f:\temp\vs\2017\iocp\server\server\server.c(47): warning C4996: 'WSASocketA': Use WSASocketW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  d:\windows kits\10\include\10.0.17134.0\um\winsock2.h(3415): note: 参见“WSASocketA”的声明
+  server.vcxproj -> F:\temp\VS\2017\IOCP\server\Debug\server.exe
